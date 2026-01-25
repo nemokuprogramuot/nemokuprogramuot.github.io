@@ -6,8 +6,24 @@
     <description>Recent content on Laurynas Butkus</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 13:15:58 +0200</lastBuildDate>
     <atom:link href="https://nemokuprogramuot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello there</title>
+      <link>https://nemokuprogramuot.github.io/posts/hello/</link>
+      <pubDate>Sun, 25 Jan 2026 13:15:58 +0200</pubDate>
+      <guid>https://nemokuprogramuot.github.io/posts/hello/</guid>
+      <description>&lt;p&gt;abra kadabra&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codetest</title>
+      <link>https://nemokuprogramuot.github.io/posts/codetest/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nemokuprogramuot.github.io/posts/codetest/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
+system.println(&amp;#34;Hello World!&amp;#34;);
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;![Landscape](/images/image.jpg)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mano pirmas puslapis</title>
       <link>https://nemokuprogramuot.github.io/posts/mano-pirmas/</link>
@@ -16,6 +32,13 @@
       <description>&lt;p&gt;Čia yra mano pirmas Hugo puslapis.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello from Hugo&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Apie</title>
+      <link>https://nemokuprogramuot.github.io/apie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nemokuprogramuot.github.io/apie/</guid>
+      <description>&lt;p&gt;Čia yra puslapis pridėtas savarankiškai 2.7 užduočiai.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

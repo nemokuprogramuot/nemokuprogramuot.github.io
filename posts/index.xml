@@ -6,8 +6,24 @@
     <description>Recent content in Posts on Laurynas Butkus</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 13:15:58 +0200</lastBuildDate>
     <atom:link href="https://nemokuprogramuot.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello there</title>
+      <link>https://nemokuprogramuot.github.io/posts/hello/</link>
+      <pubDate>Sun, 25 Jan 2026 13:15:58 +0200</pubDate>
+      <guid>https://nemokuprogramuot.github.io/posts/hello/</guid>
+      <description>&lt;p&gt;abra kadabra&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codetest</title>
+      <link>https://nemokuprogramuot.github.io/posts/codetest/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nemokuprogramuot.github.io/posts/codetest/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
+system.println(&amp;#34;Hello World!&amp;#34;);
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;![Landscape](/images/image.jpg)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mano pirmas puslapis</title>
       <link>https://nemokuprogramuot.github.io/posts/mano-pirmas/</link>
